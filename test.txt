@@ -10,3 +10,4 @@ dev 4
 git squash test 1
 git squash test 2
 git squash test 3
+external editor test
