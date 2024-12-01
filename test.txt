@@ -3,10 +3,8 @@ main 1
 1
 dev 1
 dev 2
-<<<<<<< HEAD
 main 2
 dev 3
-=======
 dev 3
 dev 4
->>>>>>> 81a50f9 (dev commit 4)
+
